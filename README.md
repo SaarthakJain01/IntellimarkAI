@@ -1,8 +1,8 @@
 # Intellimark AI Task
 
 **Author**: Saarthak Jain
+
 **LinkedIn**: [linkedin.com/in/saarthakjain01](https://www.linkedin.com/in/saarthakjain01/)
-**GitHub**: [github.com/SaarthakJain01](https://github.com/SaarthakJain01)
 
 ---
 
